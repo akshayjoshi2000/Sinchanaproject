@@ -1,0 +1,14 @@
+.card__img{
+height: 120px;
+}
+
+.details{
+    display: flex;
+    justify-items: center;
+    font-size: small;
+}
+
+.display>input{
+    height: 10px;
+    width: 15px;
+}
